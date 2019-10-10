@@ -3,7 +3,7 @@ FROM centos:7
 
 # set ruby version to be installed
 ARG RUBY_VER="2.6.3"
-ARG BUNDLE_VER="2.0.2"
+ARG BUNDLE_VER="2.0.1"
 ARG NODE_VER="10.16.3"
 
 # package update & install
